@@ -6,6 +6,14 @@ Heart Disease Data Analysis Project Using Python Libraries such as Pandas, Matpl
 # Project Intro/Objective
 The purpose of this project is to analyze the Hear Diseases and its trends.
 
+# Technologies
+- Microsoft Excel
+- Python
+- Jupyter Notebook
+- Pandas for Data Cleaning
+- Matplotlib for Visualization
+- Seaborn for Visualization
+
 # Methods Used
 - Data Extraction
 - Data Transformation
