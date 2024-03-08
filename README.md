@@ -20,14 +20,6 @@ The purpose of this project is to analyze the Hear Diseases and its trends.
 - Data Analysis
 - Data Visualization
 
-# Technologies
-- Microsoft Excel 
-- Python
-- Jupyter Notebook
-- Pandas for Data Cleaning
-- Matplotlib for Visualization
-- Seaborn for Visualization
-
 # Dataset
 Dataset has been imported from the Kaggle Data Libray for analysis purpose. Dataset has 920 Rows and 16 Columns.
 
